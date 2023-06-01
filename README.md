@@ -19,6 +19,11 @@ pip install PyQt6 nltk scikit-learn && python -m nltk.downloader punkt wordnet s
 2. Run the script.
 
 ---
+## **Demonstration**
+
+[YouTube Video](https://youtu.be/D5xNHWSoYXE)
+
+---
 
 ## Dependencies
 
